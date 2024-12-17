@@ -11,3 +11,5 @@ Polymorphisme : Surcharge de fonctions et utilisation des interfaces.
 Abstraction : Utilisation de classes abstraites et de méthodes abstraites.
 
 Ce repository est destiné à toute personne souhaitant réviser ou approfondir ses connaissances en POO avec des exemples pratiques et des exercices.
+
+# Questions d'entretien OOPS les plus posées
